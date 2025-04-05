@@ -1,7 +1,7 @@
 [
     {
         "name": "docbase-plugin-docloader-extra",
-        "pluginType: "DocLoader",
+        "pluginType": "DocLoader",
         "version": "0.0.5"
     }
 ]
